@@ -27,3 +27,4 @@ yarn-debug.log*
 yarn-error.log*
 x.txt
 backend/.Procfile
+.vscode/settings.json
